@@ -31,9 +31,9 @@ WhatsApp, with no backend, no payment gateway, and no monthly fee.
 |---|---|
 | ![Rooms](screenshots/desktop-rooms.png) | ![Reviews](screenshots/desktop-reviews-location.png) |
 
-| FAQ & booking | Mobile |
-|---|---|
-| ![Booking](screenshots/desktop-booking.png) | <img src="screenshots/mobile-full.png" width="220" alt="Mobile layout"> |
+**FAQ & booking**
+
+![Booking](screenshots/desktop-booking.png)
 
 ## Run locally
 

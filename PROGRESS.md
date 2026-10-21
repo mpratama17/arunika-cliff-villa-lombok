@@ -1,6 +1,6 @@
 # Arunika Cliff Villas — Progress
 
-Last updated: 2026-10-22. Repo: github.com/mpratama17/arunica-cliff-villa
+Last updated: 2026-10-22. Repo: github.com/mpratama17/arunika-cliff-villa-lombok
 
 Landing page villa **fiktif** di tebing Lombok — template UMKM yang bisa
 dijual + portofolio untuk klien freelance. Pitch: booking langsung, tanpa
