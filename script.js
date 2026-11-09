@@ -1,4 +1,4 @@
-const WHATSAPP = "6281234567890"; // placeholder number, replace per client
+const WHATSAPP = "6285119541842"; // demo: WA Business Tamakarsa Dev, ganti per client
 
 // mobile menu
 const toggle = document.querySelector(".nav-toggle");
